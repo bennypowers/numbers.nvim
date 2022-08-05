@@ -15,6 +15,13 @@ M.options = {
     nerdtree = true,
     Mundo = true,
     MundoDiff = true,
+    packer = true,
+    toggleterm = true,
+    DressingInput = true,
+    Telescope = true
+    TelescopePrompt = true,
+    terminal = true,
+    ['neo-tree'] = true,
   },
   norelative_events = {
     'InsertEnter',
